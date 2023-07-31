@@ -11,9 +11,9 @@
 ## Contributing
 ## License
 ## Introduction
-- Credit Card Fraud Detection is a machine learning project that aims to detect fraudulent credit card transactions using advanced algorithms and data analysis techniques. This project serves as an essential tool for financial institutions and businesses to protect their customers from potential fraudulent activities.
+- Credit Card Fraud Detection is a machine learning project that aims to detect fraudulent credit card transactions using advanced algorithms and data analysis techniques. This project is an essential tool for financial institutions and businesses to protect their customers from fraudulent activities.
 
-- The goal of this project is to build a robust and accurate fraud detection model that can identify fraudulent transactions effectively while minimizing false positives. The implementation is based on a real-world credit card transaction dataset, and the model is trained using supervised learning techniques.
+- This project aims to build a robust and accurate fraud detection model that can identify fraudulent transactions effectively while minimizing false positives. The implementation is based on a real-world credit card transaction dataset, and the model is trained using supervised learning techniques.
 
 ## Features
 - Utilizes state-of-the-art machine learning algorithms for fraud detection.
@@ -65,7 +65,3 @@
 
 - Thank you for using our Credit Card Fraud Detection project. If you have any questions or need further assistance, please don't hesitate to contact us. Happy fraud detection! 🕵️‍♀️💳
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details. You are free to use, modify, and distribute the code under the terms of this license. However, we assume no responsibility for the accuracy or reliability of this project's output or its use in any specific context.
-
-Thank you for using our Credit Card Fraud Detection project. If you have any questions or need further assistance, please don't hesitate to contact us. Happy fraud detection! 🕵️‍♀️💳
